@@ -7,7 +7,7 @@
     "start": "node app.js",
     "app": "nodemon app.js",
     "backend-build": "npm install",
-"frontend-build": "cd ../frontend && npm intall && npm build"
+"frontend-build": "cd ../frontend && npm run dev"
   },
   "author": "",
   "license": "MIT",
